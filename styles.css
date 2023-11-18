@@ -1,0 +1,44 @@
+.navbar{
+    background-color: #1a187a;
+    color: white;
+}
+.carousel{
+    background-color: #f6ddf8;
+}
+.carousel-control-prev-icon{
+    background-color: gray;
+}
+.carousel-control-next-icon{
+    background-color: gray;
+}
+.heading{
+    color: black;
+    font-size: 40px;
+}
+.para{
+    font-size: 20px;
+    color: gray;
+}
+.shop{
+    background-color: blue;
+    color: white;
+    
+}
+.right-side{
+    background-color: #ededed;
+}
+.lower-side{
+    background-color: #adc2d7;
+}
+.browsing{
+    background-color: #fafafa;
+}
+.card{
+    background-color: #f6f6f6;
+}
+.sale{
+    background-color: #958ad4;
+}
+.last-part{
+    background-color: #0e071b;
+}
